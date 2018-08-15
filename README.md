@@ -1,0 +1,2 @@
+# Hadoopv1-HDFS-Name-Node-high-availability
+Hadoop HDFS version 1 does not support high availability for name node. Shifting to version 2 or higher might not be feasible for several smaller companies which are still working on version 1. Through the use of this application, such companies can enable high availability support while working on Hadoop v1 without much time or effort. The project uses Hadoop v1 HDFS, Python, NFS and Ansible.
